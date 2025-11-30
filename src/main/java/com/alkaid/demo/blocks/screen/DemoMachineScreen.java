@@ -22,7 +22,7 @@ public class DemoMachineScreen extends AbstractContainerScreen<DemoMachineMenu> 
     protected void init() {
         super.init();
         this.inventoryLabelX = 10000;
-        this.titleLabelY = 10000;
+        this.titleLabelY = 10000000;
     }
 
     @Override
