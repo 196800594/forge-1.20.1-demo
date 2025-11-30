@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "###",
+    "DDD",
+    "# #"
+  ],
+  "result": {
+    "item": "demo_mod:magical_block",
+    "count": 2
+  },
+  "show_notification": true
+}

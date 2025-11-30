@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "demo_mod:item/raw_ice_ether"
+  }
+}

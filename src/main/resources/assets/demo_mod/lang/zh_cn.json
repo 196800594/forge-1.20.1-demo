@@ -1,0 +1,15 @@
+{
+  "item.demo_mod.ice_ether": "冰以太",
+  "item.demo_mod.raw_ice_ether": "纯冰以太",
+  "item.demo_mod.material.cardboard": "纸板",
+  "item.demo_mod.mental_detector": "金属探测仪",
+
+  "block.demo_mod.raw_ice_ether_block": " 纯冰以太方块",
+  "block.demo_mod.material.cardboard_block": "纸板方块",
+  "block.demo_mod.frosted_glass_block": "毛玻璃",
+  "block.demo_mod.magical_block": "魔方",
+
+  "tooltip.demo_mod.mental_detector.tooltip": "检测目标方块下的矿石",
+
+  "itemGroup.demo_mod_tap": "测试用例-创造模式物品栏"
+}

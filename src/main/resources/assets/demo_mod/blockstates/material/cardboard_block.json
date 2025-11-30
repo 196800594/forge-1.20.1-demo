@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "demo_mod:block/material/cardboard_block"
+    }
+  }
+}
